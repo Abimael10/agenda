@@ -1,0 +1,103 @@
+@import-normalize;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+body {
+  background: #3c97dd;
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,21,121,1) 35%, rgba(0,212,255,1) 100%);
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.App h1 {
+  text-align: center;
+  color: #fff;
+}
+
+.inside {
+  display: flex;
+  justify-content: space-around;
+}
+
+.form-all {
+  color: #fff;
+}
+
+/*UTILITY*/
+
+.text-center {
+  text-align: center;
+}
+
+.mt-lg {
+  margin-top: 2rem;
+}
+
+.mt-sm {
+  margin-top: 1rem;
+}
+
+.mb-lg {
+  margin-bottom: 2rem;
+}
+
+.mb-sm {
+  margin-bottom: 1rem;
+}
+
+.mr-sm {
+  margin-right: 1rem;
+}
+
+.field-lg {
+  width: 100%;
+}
+
+.field-form {
+  border: none;
+  padding: .3rem 0;
+  border-radius: 5px;
+}
+
+textarea {
+  border: none;
+}
+
+.btn {
+  border: none;
+  padding: 10px 14px;
+  background: #522094;
+  color: #fff;
+  border-radius: 5px;
+  width: 100%;
+  transition: all .3s;
+}
+
+.btn:hover {
+  background: #6d3ab1;
+  cursor: pointer;
+}
+
+.error-promt {
+  padding: 2rem;
+  background: #e60606;
+  color: #fff;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.lista {
+  padding: .6rem .5rem;
+  border-radius: 10px;
+  background: #fff;
+  color: #522094;
+  margin: .5rem 0;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.lista p span {
+  color: #000;
+  font-weight: normal;
+}

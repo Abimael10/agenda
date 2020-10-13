@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agenda/static/css/main.24c08afe.chunk.css",
+    "main.js": "/agenda/static/js/main.0bb0c49f.chunk.js",
+    "main.js.map": "/agenda/static/js/main.0bb0c49f.chunk.js.map",
+    "runtime-main.js": "/agenda/static/js/runtime-main.ac52f630.js",
+    "runtime-main.js.map": "/agenda/static/js/runtime-main.ac52f630.js.map",
+    "static/js/2.002743ee.chunk.js": "/agenda/static/js/2.002743ee.chunk.js",
+    "static/js/2.002743ee.chunk.js.map": "/agenda/static/js/2.002743ee.chunk.js.map",
+    "index.html": "/agenda/index.html",
+    "precache-manifest.13c9ce0ef2abd2075ca2ecd54c9ae102.js": "/agenda/precache-manifest.13c9ce0ef2abd2075ca2ecd54c9ae102.js",
+    "service-worker.js": "/agenda/service-worker.js",
+    "static/css/main.24c08afe.chunk.css.map": "/agenda/static/css/main.24c08afe.chunk.css.map",
+    "static/js/2.002743ee.chunk.js.LICENSE.txt": "/agenda/static/js/2.002743ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac52f630.js",
+    "static/js/2.002743ee.chunk.js",
+    "static/css/main.24c08afe.chunk.css",
+    "static/js/main.0bb0c49f.chunk.js"
+  ]
+}
